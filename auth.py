@@ -1,1 +1,1 @@
-print("2 Auth")
+print("New 2 Auth")
